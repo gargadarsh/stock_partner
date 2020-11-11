@@ -8,7 +8,7 @@ Requirements:
     <li>SQL</li>
     <li>NLP API model or NLP from scratch</li>
     
-   Frontend:
-    React.JS or Flutter
+   <ul>Frontend:</ul>
+   <li>React.JS or Flutter</li>
   
   
