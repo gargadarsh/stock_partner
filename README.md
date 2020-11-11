@@ -2,11 +2,11 @@
 Recommends stocks based on real time news articles.
 
 
-<ul>Backend:</ul>
+<ul>Backend:
   <li>Python 3</li>
   <li>Web Scraping</li>
   <li>SQL</li>
-  <li>NLP API model or NLP from scratch</li>
+  <li>NLP API model or NLP from scratch</li></ul>
 
 <ul>Frontend:
  <li>React.JS or Flutter</li></ul>
