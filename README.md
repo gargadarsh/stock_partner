@@ -2,17 +2,17 @@
 Recommends stocks based on real time news articles.
 
 
-<ul>Backend:
+<ul><h1>Backend:</h1>
   <li>Python 3</li>
   <li>Web Scraping</li>
   <li>SQL</li>
   <li>NLP API model or NLP from scratch</li></ul>
 
-<ul>Frontend:
+<ul><h1>Frontend:</h1>
  <li>React.JS or Flutter</li></ul>
    
 
-<ul>Articles:</ul>
+<ul><h1>Articles:</h1>
   <li>Barrons</li>
   <li>CNN</li>
   <li>WSJ</li>
@@ -24,7 +24,7 @@ Recommends stocks based on real time news articles.
   <li>Reuters</li>
   <li>Investing.com</li>
   <li>MarketWatch</li>
-  <li>Forbes</li>
+  <li>Forbes</li></ul>
   
   
   
