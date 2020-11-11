@@ -1,2 +1,2 @@
 # stock_partner
-Recommends stock based on real time news articles.
+Recommends stocks based on real time news articles.
