@@ -8,8 +8,8 @@ Recommends stocks based on real time news articles.
   <li>SQL</li>
   <li>NLP API model or NLP from scratch</li>
 
- <ul>Frontend:</ul>
- <li>React.JS or Flutter</li>
+<ul>Frontend:
+ <li>React.JS or Flutter</li></ul>
    
 
 <ul>Articles:</ul>
@@ -23,6 +23,8 @@ Recommends stocks based on real time news articles.
   <li>New York Times</li>
   <li>Reuters</li>
   <li>Investing.com</li>
+  <li>MarketWatch</li>
+  <li>Forbes</li>
   
   
   
