@@ -2,11 +2,11 @@
 Recommends stocks based on real time news articles.
 
 Requirements:
-  Backend:
-    Python 3
-    Web Scraping
-    SQL
-    NLP API model or NLP from scratch
+  <ul>Backend:</ul>
+    <li>Python 3</li>
+    <li>Web Scraping</li>
+    <li>SQL</li>
+    <li>NLP API model or NLP from scratch</li>
     
    Frontend:
     React.JS or Flutter
