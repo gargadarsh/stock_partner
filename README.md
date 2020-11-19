@@ -28,7 +28,8 @@ Recommends stocks based on real time news articles.
   
   
   <ul><h1>Requirements:</h1>
- <li>pip install beautifulsoup4</li></ul>
+ <li>pip install beautifulsoup4</li>
+ <li>pip install google</li></ul>
   
   
   
