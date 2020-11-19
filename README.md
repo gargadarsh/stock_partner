@@ -27,5 +27,9 @@ Recommends stocks based on real time news articles.
   <li>Forbes</li></ul>
   
   
+  <ul><h1>Requirements:</h1>
+ <li>pip install beautifulsoup4</li></ul>
+  
+  
   
   
